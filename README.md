@@ -1,1 +1,1 @@
-Corso di Python con Rocco
+Corso di Python con Rocco G.
