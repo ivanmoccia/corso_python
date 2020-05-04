@@ -1,1 +1,1 @@
-Corso di Python con Rocco G.
+Corso di Python con Rocco Ghielmini.
