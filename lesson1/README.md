@@ -15,9 +15,9 @@ In questo esercizio imparerai a:
 Un virtual environment serve ad avere una specifica versione di python e delle librerie di cui farai uso per un progetto specifico.
 L'idea è di evitare l'installazione di librerie globalmente nel computer. Piuttosto, per ogni progetto avere le corrispondenti dipendenze installate in un _ambiente virtuale_. Così facendo eviterai di far partire un programma con le versioni sbagliate di python o delle librerie dalle quali dipende.
 
-1. Installla la libreria `virtualenv` usando `pip`. Digita `pip install virtualenv` nel terminal. Se non funziona, vuol dire che forse il tuo computer non trova il programma pip, e puoi provare `python -m pip install virtualenv`.
+1. Installa la libreria `virtualenv` usando `pip`. Digita `pip install virtualenv` nel terminal. Se non funziona, vuol dire che forse il tuo computer non trova il programma pip, e puoi provare `python -m pip install virtualenv`.
 2. Ora che hai `virtualenv` installato puoi usarlo per creare l'ambiente virtuale. Digita `virtualenv .env` che crea una cartella dove si inizializza l'ambiente virtuale. Una pratica comune è renderla una cartella nascosta (per questo ha il punto davanti).
-3. Ogni ambiente virtuale è una cartella, come quella che hai creato, e al suo interno trovi uno script che serve ad attivarlo, ovvero a dire "sto usando questo ambiente". Lo script si chiama `activate` e si trova all'interno della cartella `bin`. Ora attiva l'ambiente virtuale. Digita `source .env/bin/activate`
+3. Ogni ambiente virtuale è una cartella, come quella che hai creato, e al suo interno trovi uno script che serve ad attivarlo, ovvero a dire "sto usando questo ambiente". Lo script si chiama `activate` e si trova all'interno della cartella `Scripts`. Ora attiva l'ambiente virtuale. Digita `. .env/bin/activate`
 4. Per disattivare l'ambiente virtuale digita `deactivate`. Non farlo ora siccome lo vogliamo ancora usare.
 
 # Installare librerie (dipendenze)
