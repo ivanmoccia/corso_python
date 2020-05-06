@@ -1,5 +1,5 @@
-# Corso di Python.
+# Corso di Python
 
-Ciao Ivan.
+Ciao _Rocco_
 
-Trovi il primo esercizio nella cartella `lesson1` ;)
+Non vedo l'ora della prossima 'Lezione' !
