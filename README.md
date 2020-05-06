@@ -2,4 +2,4 @@
 
 Ciao _Rocco_
 
-Non vedo l'ora della prossima 'Lezione' !
+Non vedo l'ora della prossima `Lezione` !
